@@ -1,0 +1,8 @@
+.feedback {
+	padding: 100px;
+}
+
+.feedback__text {
+	font-weight: 600;
+	font-size: 24px;
+}
